@@ -20,13 +20,15 @@
   <img align="center" alt="Amazon" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   <img align="center" alt="Android" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" />
 </div>
-
+<!--
  ##
 <h3 align='center'>
 <img src="https://activity-graph.herokuapp.com/graph?username=SilMontes&area=true&hide_border=true&line=3AFC30&text_color=a3a8c3&bg_color=0A1A2F&theme=react-dark"/>
 </h3>
-  
+  -->
+    
  ##
+
  ### Connect With Me
  <div>
     <a href="www.linkedin.com/in/silvia-montes-pineda" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
