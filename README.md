@@ -21,14 +21,14 @@
   <img align="center" alt="Android" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" />
 </div>
     
-   
+<!--   
  ##
 
 
 <h3 align='center'>
 <img src="https://activity-graph.herokuapp.com/graph?username=SilMontes&area=true&hide_border=true&line=3AFC30&text_color=a3a8c3&bg_color=0A1A2F&theme=react-dark"/>
 </h3>
-  
+  -->
     
  ##
 
